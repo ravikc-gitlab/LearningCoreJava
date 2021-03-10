@@ -8,4 +8,4 @@ Complete the Online Tutorial on Core Java by March 31st 2021
 
 Complete 2 hrs of the Core Java Tutorial Video
 
-Started GIT Tutorial
+Started GIT Tutorial - Move this
