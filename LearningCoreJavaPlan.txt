@@ -1,3 +1,11 @@
 Detailed Plan for Core Java Learning
 
-Complete the Online Tutorial on Core Java
+Complete the Online Tutorial on Core Java by March 31st 2021
+
+9th March 2021: Complete 1 hr of the Core Java Tutorial Video
+
+10th March 2021 :720PM : 
+
+Complete 2 hrs of the Core Java Tutorial Video
+
+Started GIT Tutorial
